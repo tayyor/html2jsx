@@ -1,0 +1,12 @@
+.title {
+    display: inline;
+    border: solid 1px black ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: firebrick;
+}
+
+
+.red:hover{
+    background: #333;
+}
+
